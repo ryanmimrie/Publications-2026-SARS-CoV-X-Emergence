@@ -1,5 +1,5 @@
 # SARS-CoV-X Emergence Modeling
-This repository contains data, code, and models from Imrie & Bissett et al., (2025) "Post-pandemic changes in population immunity have reduced the likelihood of emergence of zoonotic coronaviruses". Also included at the bottom of this page are additional visualisations of vaccination and social contract rates used to parameterise the model, as described in the study supplementary.
+This repository contains data, code, and models from Imrie et al., (2025) "Post-pandemic changes in population immunity have reduced the likelihood of emergence of zoonotic coronaviruses". Also included at the bottom of this page are additional visualisations of vaccination and social contract rates used to parameterise the model, as described in the study supplementary.
 
 ## Contents
 | Directory               | Description                                                                             |
